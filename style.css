@@ -57,6 +57,8 @@ body {
 .title {
   font-size: 20vmin;
   margin-left: calc(100vw - 60vmin);
+  font-family: lostar;
+  font-weight: 400;
 }
 
 .linkList {
